@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=j4pjKzG0eAA
 
 * Crear un perfil de Github y tunearlo!. Ver estos [perfiles](https://github.com/coderjojo/creative-profile-readme) de ejemplo.
 * Crear un perfil de Linkedin.
+* Ponerlos en el padlet https://padlet.com/cartovarc/im5fuav5silj28rx
